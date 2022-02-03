@@ -1089,9 +1089,3 @@ End Sub
 Private Sub CommandButton2_Click()
 Unload UserForm1
 End Sub
-
-
-
-Private Sub UserForm_Click()
-
-End Sub
