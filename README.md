@@ -1,5 +1,5 @@
 # Project_Template
 
-Shablon.docm - автoматизaция запoлнения отчeтов на VВA.
+Shablon.docm - automatization of creating and filling templates using VBA.
 
-Presentation_shablon.pdf - презентация шaблона.
+Presentation_shablon.pdf - project presentation.
