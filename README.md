@@ -1,4 +1,7 @@
 # Template Generation project
+Shablon.docm - automatization of creating and filling templates using VBA.
+
+Presentation_shablon.pdf - project presentation.
 
 ### Demo:
 
@@ -7,7 +10,3 @@
 ### Output:
 
 ### [File](https://github.com/EnterSub/Template-Generation/files/8355203/_0300.pdf)
-
-Shablon.docm - automatization of creating and filling templates using VBA.
-
-Presentation_shablon.pdf - project presentation.
